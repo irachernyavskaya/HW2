@@ -1,0 +1,32 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Кавказские повести</title>
+      </titleStmt>
+      <respStmt>
+        <persName>Чернявская Ирина</persName>
+        <resp>Создание TEI документа, выделение в тексте прямой речи</resp>
+      </respStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson type="fictional">
+          <person xml:id="01">
+            <persName>Касим</persName>
+          </person>
+          <person xml:id="02">
+            <persName>ами</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <speech><said type="direct" aloud="true">-- Жарко, душно в Дербенте! Взойди-ка на кровлю, Касим; посмотри, как падает за горы солнышко: не краснеет ли запад, не сбираются ли тучи на небе?</said></speech>
+    <speech><said type="direct" aloud="true">-- Нет, ами (дядя)! Запад голубее глаз моей сестрицы. Солнце упало ярко, словно "золотой цвет" на ее груди. Ни один взор его не гаснет в тумане.</said></speech>
+  </text>
+  <text>
+    <speech><said type="direct" aloud="true">-- Взбеги на кровлю, Касим; погляди, не катится ли туман с гор Лезгистана. Не чернеет ли море, не скачет ли белогривый прибой через камни?</said></speech> -- <speech><said type="direct" aloud="true">Нет, ами! Горы облиты божьей позолотой; море сверкает будто зеркало. Флаг на крепости Нарын-Кале обнял древко, как обнимает чадра стан красавицы. Ни одна волна не рассыплется жемчугом на берег; ни малейший ветерок не завьет в кудри пыли по дороге. Смирно все на море, тихо все на земле, ясно на небе!</said></speech>
+  </text>
+</TEI>
