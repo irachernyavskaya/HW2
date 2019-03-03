@@ -1,0 +1,103 @@
+<TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Россиада</title>
+      </titleStmt>
+      <respStmt>
+        <persName>Чернявская Ирина Викторовна</persName>
+        <resp>Создание TEI документа, выделение в тексте персоналий, мест</resp>
+      </respStmt>
+    </fileDesc>
+    <profileDesc>
+      <particDesc>
+        <listPerson type="fictional">
+          <person xml:id="01">
+            <persName>Невольник</persName>
+          </person>
+          <person xml:id="02">
+            <persName>Царь</persName>
+          </person>
+	  <person xml:id="02">
+            <persName>Олимп</persName>
+          </person>
+	  <person xml:id="04»>
+            <persName>Зевес</persName>
+          </person>
+	  <person xml:id="05»>
+            <persName>Тифон</persName>
+          </person>
+	  <person xml:id="06»>
+            <persName>Казанцы</persName>
+          </person>
+	  <person xml:id="07»>
+            <persName>Едигер</persName>
+          </person>
+	  <person xml:id="08»>
+            <persName>Бог</persName>
+          </person>
+	  <person xml:id="09»>
+            <persName>Мамай</persName>
+          </person>
+	  <person xml:id="10">
+            <persName>Дмитрий</persName>
+          </person>
+	  <person xml:id=«11»>
+            <persName>Александр</persName>
+          </person>
+	  <person xml:id="12»>
+            <persName>князь Курбский</persName>
+          </person>
+	  <person xml:id="13»>
+            <persName>Алей</persName>
+          </person>
+	  <person xml:id="14»>
+            <persName>Вельможи</persName>
+          </person>
+	  <person xml:id="15»>
+            <persName>Иоанн</persName>
+          </person>
+	  <person xml:id="16»>
+            <persName>Розмысл</persName>
+          </person>
+	  <person xml:id="17»>
+            <persName>Нигрин</persName>
+          </person>
+	  <person xml:id="18»>
+            <persName>Войска</persName>
+          </person>
+	  <person xml:id="19»>
+            <persName>Войска</persName>
+          </person>
+	  <person xml:id=«20»>
+            <persName>Земные сыны</persName>
+          </person>
+	  <person xml:id=«21»>
+            <persName>Россияне</persName>
+          </person>
+	  <person xml:id=«22»>
+            <persName>Российские полки</persName>
+          </person>
+	  <person xml:id=«23»>
+            <persName>Орлы</persName>
+          </person>
+	  <person xml:id="24»>
+            <persName>Ветр</persName>
+          </person>
+	  <person xml:id=«25»>
+            <persName>Конь</persName>
+          </person>
+	  <person xml:id=«26»>
+            <persName>Владетель</persName>
+          </person>
+	  <person xml:id=«27»>
+            <persName>Полки</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+    </profileDesc>
+  </teiHeader>
+  <text>
+<person xml:id="1"><persName>Невольник</persName></person> присланный во граде остается;  С другими во стенах он вскоре погребется. Едва заря <placeName>луга </placeName> румянить начала, Упала пред <person xml:id="2"><persName>царем </persName></person>   пернатая стрела, Которую placeName>Казань</placeName> с высоких стен пустила; Писание к стреле с презреньем прикрепила: Как древу сей стрелы вовек не процветать, Так россам царства ввек placeName>Орде</placeName>  не уступать... «Уступите его!» — вещает <person xml:id="2"><persName>царь </persName></person>  с досадой, И <person xml:id="19"><persName>войска</persName></person>   двигнулся с великою громадой. Так басни брань <person xml:id="8"><persName>богов </persName></person>   изображают нам, Когда <person xml:id="3"><persName>Олимп</persName></person>  отмщал их злость <person xml:id="20"><persName>земным сынам </persName></person> ; Перунами <person xml:id="4"><persName>Зевес </persName></person> со многозвездна трона Разил кичливого и гордого<person xml:id="5"><persName>Тифона</persName></person>; Весь <placeName>ад </placeName>  вострепетал, и всей вселенной связь В тревоге ропотной дрожала, устрашась. Со всех сторон трубы во стане возгремели, <person xml:id="6"><persName>Казанцы </persName></person>  робкие смутились, онемели; Но, видя молнии оружий под стеной, Весь град, объемлемый как будто пеленой, <person xml:id="6"><persName>Казанцев </persName></person><person xml:id="7"><persName>Едигер </persName></person>  на стены призывает. Отчаянье плодом свирепости бывает! Отрыгнув подлую <person xml:id="21"><persName>россиянам</persName></person>   хулу, Готовят на стенах кипящую смолу, Гортани медные, рыгающие пламень, Горящи углия, песок, разженный камень; Блистают тучи стрел <person xml:id="21"><persName>россиян</persName></person>    отражать, Не может россов гром, ни пламень удержать; Как будто посреди цветов в глухой пустыне, <person xml:id="22"><persName>Российские полки</persName></person>   дерзают в стройном чине; Подобно молниям, доспехи их горят; Казалось, то <person xml:id="23"><persName>орлы</persName></person>    противу туч парят; Весь воздух пение святое наполняет. Сам<person xml:id="8"><persName>бог</persName></person>, сам <person xml:id="8"><persName>бог</persName></person>,  с небес идущих осеняет И лаврами побед благословляет их! Остановился <person xml:id="24"><persName>ветр</persName></person>, и шум речной утих; Повсюду теплое возносится моленье; Во граде слышен вопль, вне града умиленье; В стенах гремящий звук тревогу вострубил, Но он пронзительным подобен стонам был, Унывны внемлются там гласы мусикийски; Благоговение бодрит полки российски; За веру и народ грядут, ополчены, Со псалмопением священные чины; Святою воинство водою окропляют, И храбрости огни во ратниках пылают. Как солнце, видимо во славе при весне, Так <person xml:id="19"><persName>войску </persName></person>   <person xml:id="2"><persName>царь </persName></person>  предстал, седящий на <person xml:id="25"><persName>коне </persName></person>  ; Он взором нову жизнь россиянам приносит, Господней помощи сражающимся просит: «О боже! — вопиет, — венчаемый тобой, <person xml:id="9"><persName>Мамая </persName></person>  сокрушил <person xml:id="10"><persName>Дмитрий</persName></person>, предок мой, <placeName>У Невских берегов </placeName> тобой попранны шведы, Там храбрый <person xml:id="11"><persName>Александр </persName></person>  пожал венцы победы. Коль благо мы твое умели заслужить, Дай помощь нам <placeName>Казань </placeName>, о боже! низложить; Вели торжествовать твоей святыни дому...» Он рек; слова <person xml:id="2"><persName>его</persName></person>   подобны были грому: В пылающих сердцах person xml:id="21"><persName>россиян</persName></person раздались, И стены гордыя<placeName>Казани </placeName>, потряслись. Промчался в поле глас, как некий шум дубровы: Пролить за веру кровь person xml:id="21"><persName>россияне</persName></person готовы! И вдруг умолкнул шум, настала тишина: Так, вышед на брега, смиряется волна. Тогда, последуя благоволеньям царским, <person xml:id="12"><persName>Князь Курбский </persName></person>  , исцелен, к <placeName>вратам</placeName> подвигся <placeName>Арским</placeName>; С другой страны покрыл нагайских часть полей С отборным воинством бесстрашный царь <person xml:id="13"><persName>Алей </persName></person>. Как камни некие казалися в пучине, <person xml:id="14"><persName>Вельможи </persName></person> храбрые российских войск в средине; Различной красотой убранство их цветет, Но разности в огне сердечном к славе нет. <person xml:id="27"><persName>Полки</persName></person>  , как бог миры, в порядок <person xml:id="2"><persName>царь </persName></person>  уставил И, дав движенье <person xml:id="27"><persName>им</persName></person>  , к осаде <person xml:id="27"><persName>их</persName></person>   направил. Вдохнув советы <person xml:id="27"><persName>им</persName></person>  , склонился <person xml:id="15"><persName>Иоанн</persName></person> К моленью теплому в неотдаленный стан; Но <person xml:id="19"><persName>войску</persName></person повелел, идущему ко граду, Услышав грома звук, начать тотчас осаду. Сей знак с надежной был победой сопряжен: Уж <person xml:id="16"><persName>Розмысл</persName></person> вшел в подкоп, огнем вооружен, И молния была в руках <person xml:id="16"><persName>его</persName></person>  готова;  Ужасный гром родить <person xml:id="16"><persName>он</persName></person>  ждал <person xml:id="2"><persName>царева </persName></person слова. Тогда, воздев глаза и руки к небесам, Молитвы теплые излил <person xml:id="26"><persName>владетель </persName></person сам. <person xml:id="17"><persName>Господь</persName></person> с умильностью молитвам царским внемлет, Любовь возносит их, щедрота их приемлет: Надежда с горних мест, как молния из туч, <person xml:id="2"><persName>Царю </persName></person влилася в грудь и пролияла луч. Воззвал, внимающий святую литургию: «О боже! подкрепи, спаси, прославь Россию!..» И <person xml:id="8"><persName>бог </persName></person>    к нему простер десницу от небес. Едва сей важный стих пресвитер произнес: «Единый пастырь днесь едина будет стада...» — Разрушилися вдруг под градом связи ада; Поколебалися и горы, и поля; Ударил страшный гром, расселася земля; Трепещет, мечется и воздух весь сгущает, Казалось, мир в хаос <person xml:id="8"><persName>создатель </persName></person>    превращает; Разверзлась мрачна хлябь, исходит дым с огнем, При ясном небеси не видно солнца днем. Мы видим ветхого в преданиях закона, Как стены гордого упали <placeName>Ерихона</placeName>, Едва гремящих труб стенам коснулся звук — Казански рушились твердыни тако вдруг. Расторгнув молнии пролом в стенах возженных, И победителей страшат, и побежденных. Осыпал темный прах и горы, и луга; Земля волнуется, вздыхают берега, Изображение казанския напасти, Летают их тела, расторгнуты на части. В развалинах они, кончаясь, вопиют, Но громы слышать их стенанья не дают. <person xml:id="18"><persName>Нигрин </persName></person>, отломком в грудь от камня пораженный, Валится вместе с <person xml:id="18"><persName>ним </persName></person> в глубокий <placeName>ад </placeName>  безденный; Вращаяся, летел три дни, три ночи <person xml:id="18"><persName>он </persName></person>; В геенне рвет власы, пускает тяжкий стон. Приемлет таковый конец всегда злодейство! Но дым густой закрыл <person xml:id="22"><persName>полков российских</persName></person действо; <person xml:id="12"><persName>Князь Курбский </persName></person>  с воинством кидается в пролом, Огонь через огни, чрез громы вносит гром; Преходит градски рвы, стеною заваленны, Преграды разметал, огнями воспаленны.
+</text>
+</TEI>
